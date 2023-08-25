@@ -1,0 +1,28 @@
+Week#1 
+Python & Python Libraries
+
+Week#2 
+Logistic Regression
+Linear Refression
+
+Week#3
+Bias-Varaince
+Lasso & Ridge Regression
+AUC-ROC Curve
+Confusion Matrix
+Evaluation Matrix
+
+Week#4 
+Decision Trees
+Random FOrest
+XGBoost
+Gaussian Naive Baye's
+KNN
+
+Week#5
+Neural Networks
+Regression with Keras
+Supervised & Unsupervised Learning
+Dimensionality
+
+-----------------------------xEndx---------------------------------
